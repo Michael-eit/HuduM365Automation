@@ -26,4 +26,4 @@ jobs:
           app-name: 'm365hudu2syta'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4AF77E4FA75340459EBA0E10A6013D89 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB1516D0334B47DABE0FEF8FC967B37F }}
